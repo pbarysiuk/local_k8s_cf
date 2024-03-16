@@ -1,0 +1,4 @@
+k3d_kubeconfig
+.terraform*
+terraform.tfstate*
+*.tfvars
